@@ -21,7 +21,7 @@ Este repositório contém o código-fonte do meu site pessoal e blog, **Sanog Co
 
 A versão mais recente do blog está hospedada e acessível publicamente através do link:
 
-**🌐 [Visite Sanog Codes aqui!](www.sanogcodes.com.br)**
+**🌐 [Visite Sanog Codes aqui!](https://www.sanogcodes.com.br)**
 
 ## 📄 Licença
 
