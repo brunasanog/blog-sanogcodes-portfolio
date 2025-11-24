@@ -1,0 +1,9 @@
+PROPRIETARY LICENSE
+
+Copyright (c) 2025 Bruna Sanog. All rights reserved.
+
+This software and its associated documentation files (the "Software") are the exclusive property of Bruna Sanog.
+
+UNAUTHORIZED COPYING, REPRODUCTION, MODIFICATION, DISTRIBUTION, PUBLICATION, DISPLAY, OR PERFORMANCE OF THIS SOFTWARE, OR ANY PORTION THEREOF, IS STRICTLY PROHIBITED.
+
+This Software is provided "as is" and any unauthorized use or transfer is a violation of copyright laws.
